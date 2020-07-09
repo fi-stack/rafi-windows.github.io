@@ -1,0 +1,17 @@
+{
+    "name": "Football Information",
+    "short_name": "Football Information",
+    "description": "Submission PWA Football Information -Rafi",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#008A8A",
+    "theme_color": "#008A8A",
+    "icons": [
+        {
+            "src": "img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "418598804709"
+}
